@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# NewsMonkey - Get All your daily news here!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Helllo everyone this is my second React App from the React course of Code With Harry
+
+Here you can get news on the following topic-
+
+1. General
+2. Bussiness
+3. Entertainment
+4. Health
+5. Science
+6. Sports
+7. Technology
+
+The news are being fetched from newsapi - https://newsapi.org
 
 ## Available Scripts
 
@@ -28,6 +40,15 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `Static Server`
+
+For environments using Node, the easiest way to handle this would be to install serve and let it handle the rest:
+
+```
+npm install -g serve
+serve -s build
+```
 
 ### `npm run eject`
 

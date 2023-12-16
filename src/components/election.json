@@ -1,0 +1,189 @@
+{
+  "status": "ok",
+  "totalResults": 18,
+  "articles": [
+    {
+      "source": { "id": "google-news-in", "name": "Google News (India)" },
+      "author": "NDTV",
+      "title": "Government Makes Key Changes In Bill To Protect Top Election Officers - NDTV",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3Lm5kdHYuY29tL2luZGlhLW5ld3MvZ292ZXJubWVudHMtYmlnLWNoYW5nZXMtaW4tYmlsbC10by1wcm90ZWN0LXRvcC1lbGVjdGlvbi1jb21taXNzaW9ucG9zdHMtNDY1ODQzNdIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-12-12T09:09:00+00:00",
+      "content": null
+    },
+    {
+      "source": { "id": "cbc-news", "name": "CBC News" },
+      "author": "CBC News",
+      "title": "ANALYSIS | Dental care gives the NDP a reason to smile — no matter what happens in the next election | CBC News",
+      "description": "Some of the NDP's claimed victories are at least open to debate. But a new dental care program for low-income Canadians would indisputably be a win — regardless of whether the party benefits politically.",
+      "url": "http://www.cbc.ca/news/politics/dental-care-ndp-jagneet-singh-analysis-wherry-1.6797866",
+      "urlToImage": "https://i.cbc.ca/1.6798276.1680300139!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/biden-canada.jpg",
+      "publishedAt": "2023-12-12T09:07:21.0745879Z",
+      "content": "For all anyone knows, this might be as good as it gets for Jagmeet Singh's NDP. But would that be so bad?\r\nThe NDP is certainly in a celebratory mood. On Wednesday, the day after the federal budget, … [+4988 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "ERIC TUCKER",
+      "title": "How the 2016 election could factor into the case accusing Trump of trying to overturn the 2020 race",
+      "description": "WASHINGTON (AP) — To hear his lawyers tell it, Donald Trump was alarmed by Russia's interference in the 2016 election, motivated as president to focus on cybersecurity and had a good-faith basis four years later to worry that foreign actors had again meddled …",
+      "url": "https://apnews.com/3015ad1eeb2571ba3de432470c24b9f8",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/24c6bbc5796b47c480cd990a3b232bea/3000.jpeg",
+      "publishedAt": "2023-12-12T05:04:43Z",
+      "content": "WASHINGTON (AP) — To hear his lawyers tell it, Donald Trump was alarmed by Russia's interference in the 2016 election, motivated as president to focus on cybersecurity and had a good-faith basis four… [+6127 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The Guardian US",
+      "title": "Special counsel to disclose Trump’s phone data at election interference trial - The Guardian US",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91cy1uZXdzLzIwMjMvZGVjLzExL2RvbmFsZC10cnVtcC0yMDIwLWVsZWN0aW9uLXRyaWFsLXR3ZWV0cy1waG9uZS1kYXRh0gFiaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3VzLW5ld3MvMjAyMy9kZWMvMTEvZG9uYWxkLXRydW1wLTIwMjAtZWxlY3Rpb24tdHJpYWwtdHdlZXRzLXBob25lLWRhdGE?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-12-12T02:04:00+00:00",
+      "content": null
+    },
+    {
+      "source": { "id": "breitbart-news", "name": "Breitbart News" },
+      "author": "Bradley Jaye",
+      "title": "SCOTUS to Quickly Decide on Request to Hear Trump's Immunity Defense",
+      "description": "SCOTUS will decide whether or not to expedite deciding if former President Donald Trump is immune from prosecution on charges of attempting to overturn the results of the 2020 election.",
+      "url": "http://www.breitbart.com/politics/2023/12/11/supreme-court-quickly-decide-whether-not-hear-trump-immunity-defense-special-counsel-prosecution/",
+      "urlToImage": "https://media.breitbart.com/media/2023/12/GettyImages-1831277731-640x335.jpg",
+      "publishedAt": "2023-12-12T00:54:41Z",
+      "content": "WASHINGTON, DC The U.S. Supreme Court will decide in coming weeks whether or not to expedite deciding if former President Donald Trump is immune from prosecution on charges of attempting to overturn … [+3221 chars]"
+    },
+    {
+      "source": { "id": "msnbc", "name": "MSNBC" },
+      "author": "Jordan Rubin",
+      "title": "Jack Smith goes full court press to keep Trump’s D.C. trial on track",
+      "description": "The special counsel is advancing arguments at all three levels of the court system to try and minimize delay in the federal election interference case.",
+      "url": "https://www.msnbc.com/deadline-white-house/deadline-legal-blog/trump-jack-smith-supreme-court-election-rcna129003",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-12/231211-jack-smith-al-0911-e9d1c4.jpg",
+      "publishedAt": "2023-12-11T20:32:32Z",
+      "content": "UPDATE (Dec. 11, 2023, 6:30 p.m. ET): The Supreme Court on Monday granted expedited review of special counsel Jack Smith's request for the justices to immediately review Donald Trump's presidential i… [+3336 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Jess Bravin, C. Ryan Barber",
+      "title": "Special Counsel Jack Smith Asks Supreme Court to Quickly Rule on Trump’s Immunity",
+      "description": "Jack Smith petitioned high court to bypass appeals panel so election-interference trial can start in March",
+      "url": "https://www.wsj.com/us-news/law/donald-trump-jack-smith-supreme-court-immunity-e08cbe65?mod=hp_lead_pos6",
+      "urlToImage": "https://images.wsj.net/im-898830/social",
+      "publishedAt": "2023-12-11T19:24:00Z",
+      "content": "WASHINGTONSpecial counsel Jack Smith asked the Supreme Court on Monday to take up \r\nDonald Trumps claim that he is immune from prosecution and cant face criminal charges related to efforts to overtur… [+562 chars]"
+    },
+    {
+      "source": { "id": "wired", "name": "Wired" },
+      "author": "Wired",
+      "title": "Taylor Swift, QAnon, and the Political Weaponization of Fandom",
+      "description": "This week, Taylor Swift was named Time’s Person of the Year. QAnon conspiracy theorists say it’s all part of a psyop to alter the trajectory of the 2024 election.",
+      "url": "https://www.wired.com/story/taylor-swift-psyop-conspiracy-theory-person-of-the-year/",
+      "urlToImage": "https://media.wired.com/photos/65774f778d8e7aa161272167/191:100/w_1280,c_limit/Taylor-Swift-Election-Conspiracy-Culture-1474272248.jpg",
+      "publishedAt": "2023-12-11T18:30:41Z",
+      "content": "Taylor Swift remains inescapable. Tales of her reign are legion, as are her fans. Next to Beyoncé, her power and influence have reached heights so unbridled its almost unfathomable. Her Eras Tour mad… [+2963 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Devlin Barrett, Perry Stein, Robert Barnes, Rachel Weiner",
+      "title": "U.S. prosecutors ask Supreme Court to quickly take up Trump immunity claims",
+      "description": "Justice Department seeks to avoid pre-trial delays by asking Supreme Court to quickly consider Donald Trump’s claims of immunity in D.C. election-obstruction case.",
+      "url": "https://www.washingtonpost.com/national-security/2023/12/11/trump-immunity-supreme-court-jan-6-special-counsel/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6PSGBFZJMBB6H2JSTTFO34DEEA_size-normalized.JPG&w=1440",
+      "publishedAt": "2023-12-11T18:11:28Z",
+      "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nSpecial counsel Jack Smith on Monday asked the Supreme Court to quickly consider former president Donald Trumps claims that he is immu… [+5744 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Kaanita Iyer, Katelyn  Polantz, Holmes Lybrand, Devan Cole",
+      "title": "Georgia election workers ask court to warn Rudy Giuliani after he repeats claims judge ruled were defamatory",
+      "description": "After his first day in a Washington, DC, courtroom where a jury will determine how much he owes two former Georgia election workers for defamation, former Donald Trump election attorney Rudy Giuliani still insists everything he said about the two women was tr…",
+      "url": "https://www.cnn.com/2023/12/11/politics/rudy-giuliani-defamation-trial/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap23277585445824.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-12-11T12:00:37Z",
+      "content": "After his first day in a Washington, DC, courtroom where a jury will determine how much he owes two former Georgia election workers for defamation, former Donald Trump election attorney Rudy Giuliani… [+6697 chars]"
+    },
+    {
+      "source": { "id": "time", "name": "Time" },
+      "author": "Chad de Guzman",
+      "title": "Hong Kong’s ‘Patriots Only’ Local Elections Marked by Arrests, Low Turnout: What to Know",
+      "description": "The record-low turnout is the latest sign of widespread discontent and rising apathy in the semi-autonomous Chinese enclave toward its pro-Beijing government.",
+      "url": "http://time.com/6344588/hong-kong-district-elections-low-turnout-arrests/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2023/12/john-lee-district-council-elections.jpg?quality=85",
+      "publishedAt": "2023-12-11T08:30:00Z",
+      "content": "The arrests of several pro-democracy protesters alongside record-low turnout on Sunday in Hong Kongs first district elections in four yearsa period that has been marked by the tightening of Beijings … [+3466 chars]"
+    },
+    {
+      "source": { "id": "the-huffington-post", "name": "The Huffington Post" },
+      "author": "Sanjana Karanth",
+      "title": "Trump Says He Will No Longer Testify Again In Civil Fraud Trial",
+      "description": "The ex-president was originally going to testify Monday in the case, which he has repeatedly claimed is election interference by the Biden campaign.",
+      "url": "https://www.huffpost.com/entry/trump-wont-testify-civil-fraud-trial_n_657626fbe4b0881b79178fe7",
+      "urlToImage": "https://img.huffingtonpost.com/asset/65762a9622000031002635c2.jpeg?ops=1200_630",
+      "publishedAt": "2023-12-10T21:23:28Z",
+      "content": "Former President Donald Trump has said that he will no longer testify on Monday in his civil trial as previously planned, reflecting his growing frustration with the New York case.\r\nThe 2024 Republic… [+5653 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Andrew Goudsward",
+      "title": "US aims to show Trump's history of vote fraud claims at 2020 election trial",
+      "description": "U.S. prosecutors trying Donald Trump on charges of trying to overturn his <a href=\"/world/us/judge-rejects-trump-immunity-claim-federal-2020-election-case-2023-12-02/\">2020 election defeat</a> will seek to show evidence of the former president's claims about …",
+      "url": "https://www.reuters.com/legal/us-aims-show-trumps-history-vote-fraud-claims-2020-election-trial-2023-12-05/",
+      "urlToImage": "https://www.reuters.com/resizer/E87xkXzzy1zdwbrEqo_1J5zznKI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NI66SGHEHNJGVDZPGA3AGABV2M.jpg",
+      "publishedAt": "2023-12-05T20:03:29Z",
+      "content": "WASHINGTON, Dec 5 (Reuters) - U.S. prosecutors trying Donald Trump on charges of trying to overturn his 2020 election defeat will seek to show evidence of the former president's claims about voter fr… [+1918 chars]"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Alex Gangitano",
+      "title": "Biden extends student loan freeze through August",
+      "description": "President Biden on Wednesday extended the pandemic moratorium on federal student loan payments and interest accrual through August, ending just three months before the midterm elections. The president announced the extension until August 31 in a statement, ci…",
+      "url": "https://thehill.com/news/administration/3259770-biden-extends-student-loan-freeze-through-august/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/03/bidenjoe_030822apandrewharnik.jpg?w=1280",
+      "publishedAt": "2022-04-06T14:01:23Z",
+      "content": "President Biden on Wednesday extended the pandemic moratorium on federal student loan payments and interest accrual through August, ending just three months before the midterm elections.\r\nThe preside… [+4527 chars]"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Kelsey Carolan",
+      "title": "GOP Rep. Bob Gibbs to retire amid Ohio primary battle",
+      "description": "Rep. Bob Gibbs (R-Ohio), elected in 2010, announced his retirement Wednesday morning, citing redistricting as his reasoning behind not running for reelection. “It is irresponsible to effectively confirm the congressional map for this election cycle seven days…",
+      "url": "https://thehill.com/news/house/3260264-gop-rep-bob-gibbs-to-retire-amid-ohio-primary-battle/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2016/11/gibbsbob_091015gn_lead.jpg?w=1280",
+      "publishedAt": "2022-04-06T13:49:45Z",
+      "content": "Rep. Bob Gibbs (R-Ohio), elected in 2010, announced his retirement Wednesday morning, citing redistricting as his reasoning behind not running for reelection.\r\nIt is irresponsible to effectively conf… [+1596 chars]"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Alexis Simendinger, Al Weaver",
+      "title": "The Hill’s Morning Report – Election year fights consume Capitol Hill",
+      "description": "If anyone needs evidence that the midterms are dictating everything in Washington, look no further than Tuesday’s events on Capitol Hill. There was name-calling, policy denunciations, blockades on pending legislation, more retirements, ennui, risk aversion an…",
+      "url": "https://thehill.com/news/morning-report/3260160-the-hills-morning-report-election-year-fights-consume-capitol-hill/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/04/MR_capitol-dome_022122_ap-Patrick-Semansky.jpg?w=1280",
+      "publishedAt": "2022-04-06T10:34:14Z",
+      "content": "If anyone needs evidence that the midterms are dictating everything in Washington, look no further than Tuesdays events on Capitol Hill. There was name-calling, policy denunciations, blockades on pen… [+17391 chars]"
+    },
+    {
+      "source": { "id": "vice-news", "name": "Vice News" },
+      "author": "Cameron Joseph",
+      "title": "This GOP Congressman Officiated a Gay Wedding, and It Could Cost Him an Election",
+      "description": "GOP activists in the rural Virginia district are furious that Rep. Denver Riggleman would marry two men. Now they want to take him out.",
+      "url": "https://www.vice.com/en_us/article/qj48e5/this-gop-congressman-officiated-a-gay-wedding-and-it-could-cost-him-an-election",
+      "urlToImage": "https://video-images.vice.com/test-uploads/articles/5ecfce70c5e37600996cccc2/lede/1590677127974-6Y1A6997.jpeg?crop=1xw:0.8462xh;0xw,0.0769xh&resize=1200:*",
+      "publishedAt": "2020-05-28T15:12:03Z",
+      "content": "When Anthony Rek LeCounte and Alex Siciliano tied the knot last summer, they didnt expect their wedding to become a flashpoint in a congressional campaign.\r\n Shortly after moving down to Charlottesvi… [+7013 chars]"
+    },
+    {
+      "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" },
+      "author": "Omri Nahmias",
+      "title": "President Donald Trump: Israel keeps having elections, nobody is elected",
+      "description": "Trump joked that his rating in Israel is 98%, and \"if anything happens here, I will take a trip over to Israel to run for prime minister there.”",
+      "url": "https://www.jpost.com/Arab-Israeli-Conflict/President-Donald-Trump-Israel-keeps-having-elections-nobody-is-elected-607687",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/443370",
+      "publishedAt": "2019-11-13T02:06:00Z",
+      "content": "WASHINGTON - US President Donald Trump on Tuesday, mocked the political stalemate in Israel, in which Israelis \"keep having elections [but] nobody is elected.” \r\nA video circulating in social media, … [+1773 chars]"
+    }
+  ]
+}
