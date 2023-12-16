@@ -15,9 +15,6 @@ function About() {
           and Bootstrap. It uses the News API to fetch the latest news from
           various news sources. It is a responsive web app that works on all
           devices.
-          <br />
-          It is my second project in React.js. I have used React.js, Bootstrap.
-          I am learning React.js and this is my second project in React.js.
         </p>
       </div>
     </div>
